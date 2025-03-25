@@ -32,6 +32,11 @@ To apply a rejection mechanism,
 ```bash
 Rejection.py 
 ```
+### Applying Entropy-based Rejection Mechanisms
+Apply Entropy-based rejection mechanism
+```bash
+
+```
 
 ## Results & Evaluation
 Evaluation is performed by analyzing the model AUC with and without rejection. The key metrics include:
